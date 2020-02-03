@@ -1,0 +1,2 @@
+C:\Users\Kuso\Desktop\Lenard Skola\KusanovicLenardWindowsForms-master\KusanovicLenardImageList\KusanovicLenardImageList\obj\Debug\KusanovicLenardImageList.csprojAssemblyReference.cache
+C:\Users\Kuso\Desktop\Visual Studio skola\KusanovicLenardImageList\KusanovicLenardImageList\obj\Debug\KusanovicLenardImageList.csprojAssemblyReference.cache

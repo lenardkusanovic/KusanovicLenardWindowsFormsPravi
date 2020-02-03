@@ -1,0 +1,9 @@
+C:\Users\Kuso\Desktop\Visual Studio skola\KusanovicLenardMonthCalendar\KusanovicLenardMonthCalendar\bin\Debug\KusanovicLenardMonthCalendar.exe.config
+C:\Users\Kuso\Desktop\Visual Studio skola\KusanovicLenardMonthCalendar\KusanovicLenardMonthCalendar\bin\Debug\KusanovicLenardMonthCalendar.exe
+C:\Users\Kuso\Desktop\Visual Studio skola\KusanovicLenardMonthCalendar\KusanovicLenardMonthCalendar\bin\Debug\KusanovicLenardMonthCalendar.pdb
+C:\Users\Kuso\Desktop\Visual Studio skola\KusanovicLenardMonthCalendar\KusanovicLenardMonthCalendar\obj\Debug\KusanovicLenardMonthCalendar.csprojAssemblyReference.cache
+C:\Users\Kuso\Desktop\Visual Studio skola\KusanovicLenardMonthCalendar\KusanovicLenardMonthCalendar\obj\Debug\KusanovicLenardMonthCalendar.Form1.resources
+C:\Users\Kuso\Desktop\Visual Studio skola\KusanovicLenardMonthCalendar\KusanovicLenardMonthCalendar\obj\Debug\KusanovicLenardMonthCalendar.Properties.Resources.resources
+C:\Users\Kuso\Desktop\Visual Studio skola\KusanovicLenardMonthCalendar\KusanovicLenardMonthCalendar\obj\Debug\KusanovicLenardMonthCalendar.csproj.GenerateResource.cache
+C:\Users\Kuso\Desktop\Visual Studio skola\KusanovicLenardMonthCalendar\KusanovicLenardMonthCalendar\obj\Debug\KusanovicLenardMonthCalendar.exe
+C:\Users\Kuso\Desktop\Visual Studio skola\KusanovicLenardMonthCalendar\KusanovicLenardMonthCalendar\obj\Debug\KusanovicLenardMonthCalendar.pdb

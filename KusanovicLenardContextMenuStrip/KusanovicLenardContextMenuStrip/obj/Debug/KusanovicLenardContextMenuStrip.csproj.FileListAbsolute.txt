@@ -1,0 +1,3 @@
+C:\Users\Kuso\Desktop\Visual Studio skola\KusanovicLenardContextMenuStrip\KusanovicLenardContextMenuStrip\obj\Debug\KusanovicLenardContextMenuStrip.Form1.resources
+C:\Users\Kuso\Desktop\Visual Studio skola\KusanovicLenardContextMenuStrip\KusanovicLenardContextMenuStrip\obj\Debug\KusanovicLenardContextMenuStrip.Properties.Resources.resources
+C:\Users\Kuso\Desktop\Visual Studio skola\KusanovicLenardContextMenuStrip\KusanovicLenardContextMenuStrip\obj\Debug\KusanovicLenardContextMenuStrip.csproj.GenerateResource.cache
